@@ -12,13 +12,14 @@ hexo server
 ### 撰写
 
 ``` bash
-cd uniqueway-blog 
-hexo new "new post"
+cd uniqueway-blog
 hexo new [layout] <title>
 hexo generate
 git add .
 git push origin master
 ```
+
+[More Documentation](https://hexo.io/docs/commands.html)
 
 ### 部署
 
